@@ -8,3 +8,4 @@ if(random==1):
 	print("salary is :" 20*8)
 else:
 	print("Employee absnet")
+	print("salary is : 0")
