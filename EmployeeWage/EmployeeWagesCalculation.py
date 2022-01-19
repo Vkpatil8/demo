@@ -9,3 +9,4 @@ if(random==1):
 else:
 	print("Employee absnet")
 	print("salary is : 0")
+	print(" ")
